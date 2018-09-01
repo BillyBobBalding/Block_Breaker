@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d208672de0936a14f917b1e813f68c37
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - breakSound: {instanceID: 0}
+  - blockSparklesVFX: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
